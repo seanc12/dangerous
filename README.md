@@ -156,6 +156,9 @@ git log
 echo "hello, world" > index.html
 git diff
 
+git add .
+git commit -m "add content to repos/website/index.html"
 
-
+index.html
+<h1>hello, world</h1>
 
