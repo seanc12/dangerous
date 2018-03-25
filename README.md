@@ -17,14 +17,15 @@ http://www.youtube.com/user/c9ide.
 Happy coding!
 The Cloud9 IDE team
 
+    _/_/_/_/  _/_/_/_/    _/_/    _/      _/
+   _/        _/        _/    _/  _/_/    _/
+  _/_/_/_/  _/_/_/_/  _/_/_/_/  _/  _/  _/
+   	   _/  _/        _/    _/  _/    _/_/
+_/_/_/_/  _/_/_/_/  _/    _/  _/      _/
+
 c9 Blank Ubuntu Virtual Box
 
-
-
-
-
-
-
+https://www.learnenough.com/courses
 
 
 
