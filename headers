@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Sun, 25 Mar 2018 13:16:57 GMT
+Connection: close
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Ua-Compatible: chrome=1
+Content-Type: application/json; charset=utf-8
+Etag: "768e41b20e1e385d06f9b2da6f7e0f08"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _curl_test_app_rails_session=NElYVjU3Z29kUXhUdlFyM3JYK3luRkl1d0JiUmNPR3c5dDFteVhHT1ppOVgyUFhXWDBHYXdwdnBaSG83ZmtEd2NvUWk1RHZzcDBiMngvbDZ6dTZwRGpCZEMzeEh6VjJQWExYak1Kci9nUTRQdU9uR21WSGdwYTRXQnVPbC9xaGQtLXB4eGlYMUppMDdaVnJjQU1Ib2pNQmc9PQ%3D%3D--2745c47acd1a3d49f834fa2c348eb4eeaea47ed8; path=/; HttpOnly
+X-Request-Id: 6cc19722-1412-499d-8116-24c2c1ad6210
+X-Runtime: 0.003519
+Server: thin 1.6.1 codename Death Proof
+Via: 1.1 vegur
+
