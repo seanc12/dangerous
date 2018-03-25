@@ -143,9 +143,18 @@ git config --global user.email sean.cox.or@gmail.com
 mkdir -p repos/website
 
 git add -A (or) 
+
+wget https://softcover.s3.amazonaws.com/636/learn_enough_git/images/figures/git_status_sequence.png
+
+cd repos/website
+touch index.html
+
 git add .
+git commit -m "initial commit"
+git log
 
-
+echo "hello, world" > index.html
+git diff
 
 
 
