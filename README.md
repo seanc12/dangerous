@@ -22,7 +22,6 @@ c9 Blank Ubuntu
 http://conqueringthecommandline.com/book/basics
 Learn enough Command Line
 
-
 pwd
 pwd -P
 ls
@@ -142,7 +141,7 @@ git config --global user.email sean.cox.or@gmail.com
 
 mkdir -p repos/website
 
-git add -A (or) 
+git add .
 
 wget https://softcover.s3.amazonaws.com/636/learn_enough_git/images/figures/git_status_sequence.png
 
