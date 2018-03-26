@@ -21,3 +21,4 @@ c9 Blank Ubuntu Virtual Box
 
 https://www.learnenough.com/courses
 
+https://www.railstutorial.org/book

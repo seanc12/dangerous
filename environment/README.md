@@ -15,3 +15,6 @@ cd hello_app/
 bundle install
 bundle update
 
+rails server
+*c9 only*
+rails s -b $IP -p $PORT
